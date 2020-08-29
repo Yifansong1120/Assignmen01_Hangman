@@ -10,5 +10,7 @@ player.py - PLEASE RUN THIS FILE if you want to run this program. It is an insta
 words.py - providing list of words
 hangman_test.py - Python Unit Test document
 
+If Python unit test is running occurring errors, please refresh the test and run it again.
+
 Author: Yifan Song
 Student ID: s330809
